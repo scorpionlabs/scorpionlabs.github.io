@@ -20,7 +20,7 @@ main{
 }
 .logoimg{
     height: 100%;
-    max-width: 200px;
+    max-width: 400px;
 }
 .left{
     background-image: url(images/bg-pattern-desktop.svg);
