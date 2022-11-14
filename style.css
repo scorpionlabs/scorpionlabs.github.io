@@ -18,6 +18,10 @@ main{
     pointer-events: none;
     user-select: none;
 }
+.logoimg{
+    height: 100%;
+    max-width: 200px;
+}
 .left{
     background-image: url(images/bg-pattern-desktop.svg);
     background-repeat: no-repeat;
