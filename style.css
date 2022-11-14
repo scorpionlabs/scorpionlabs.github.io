@@ -19,6 +19,7 @@ main{
     user-select: none;
 }
 .logoimg{
+    height: auto;
     max-width: 300px;
 }
 .left{
